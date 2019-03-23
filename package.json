@@ -1,0 +1,25 @@
+{
+  "name": "fragment_lighting_express",
+  "version": "1.0.0",
+  "description": "fragment lighting demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jiajianou/fragment_lighting_express.git"
+  },
+  "keywords": [
+    "fragment"
+  ],
+  "author": "J.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jiajianou/fragment_lighting_express/issues"
+  },
+  "homepage": "https://github.com/Jiajianou/fragment_lighting_express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
